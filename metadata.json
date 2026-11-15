@@ -1,0 +1,6 @@
+{
+  "name": "Know Your Product — Couples & Household Edition",
+  "description": "Helps households and married couples choose the healthier of two Personal Care (Soaps, Shampoos, Oils) or Supplement products, scoring each on Wellbeing (0–100) and explaining the biological and reproductive health risks of each choice using 9 official regulatory bodies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
